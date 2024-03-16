@@ -10,9 +10,9 @@
     100% { opacity: 0; }
   }
 
-  @font-face {
+@font-face {
   font-family: 'Arial Narrow';
-  src: url('../ArialNarrow.ttf') format('ttf'), /* Modern Browsers */
+  src: url('../ArialNarrow.ttf') format('truetype'), /* Modern Browsers */
   font-weight: normal; /* Adjust as necessary */
   font-style: normal;  /* Adjust as necessary */
 }

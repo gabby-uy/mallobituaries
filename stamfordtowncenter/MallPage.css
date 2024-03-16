@@ -11,9 +11,15 @@
 
 @font-face {
   font-family: 'Arial Narrow';
-  src: url('../ArialNarrow.ttf') format('ttf'), /* Modern Browsers */
+  src: url('../ArialNarrow.ttf') format('truetype'), /* Modern Browsers */
   font-weight: normal; /* Adjust as necessary */
   font-style: normal;  /* Adjust as necessary */
+}
+
+@font-face {
+  font-family: 'Brush Script STD';
+  src: url('../BrushScriptStd.otf') format('opentype'), /* Modern Browsers */
+  font-weight: normal; /* Adjust as necessary */
 }
 
 /* NAVIGATION */
