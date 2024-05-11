@@ -16,6 +16,14 @@
   font-weight: normal; /* Adjust as necessary */
   font-style: normal;  /* Adjust as necessary */
 }
+
+@font-face {
+  font-family: 'Arial Black';
+  src: url('../ArialBlack.ttf') format('truetype'), /* Modern Browsers */
+  font-weight: normal; /* Adjust as necessary */
+  font-style: normal;  /* Adjust as necessary */
+}
+
 /* NAVIGATION */
 .homebutton{
   all: initial;
