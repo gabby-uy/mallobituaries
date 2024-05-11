@@ -94,7 +94,7 @@
 
     /* HEADER */
      h1 {
-      font-family:"Brush Script MT";
+      font-family:"Brush Script STD";
       font-size: clamp(1em, 11vw, 6em);
       font-weight:3pt;
       transform: rotate(-7deg);
