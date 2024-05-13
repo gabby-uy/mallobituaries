@@ -24,6 +24,12 @@
   font-style: normal;  /* Adjust as necessary */
 }
 
+@font-face {
+  font-family: 'Luminari';
+  src: url('../Luminari.ttf') format('truetype'), /* Modern Browsers */
+  font-weight: normal; /* Adjust as necessary */
+}
+
 /* NAVIGATION */
 .homebutton{
   all: initial;

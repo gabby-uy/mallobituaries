@@ -17,8 +17,8 @@
 }
 
 @font-face {
-  font-family: 'Brush Script STD';
-  src: url('../BrushScriptStd.otf') format('opentype'), /* Modern Browsers */
+  font-family: 'Brush Script';
+  src: url('../BrushScript.ttf') format('truetype'), /* Modern Browsers */
   font-weight: normal; /* Adjust as necessary */
 }
 
@@ -168,7 +168,7 @@
       margin-right:20vw;
     }
   .mallname{
-      font-family: 'Brush Script MT';
+      font-family: 'Brush Script';
       transform: rotate(-7deg);
       display: inline-block;
       font-size:1.1em;

@@ -24,6 +24,13 @@
   font-style: normal;  /* Adjust as necessary */
 }
 
+@font-face {
+  font-family: 'Stencil';
+  src: url('../StencilStd.otf') format('opentype'), /* Modern Browsers */
+  font-weight: normal; /* Adjust as necessary */
+  font-style: normal;  /* Adjust as necessary */
+}
+
 /* NAVIGATION */
 .homebutton{
   all: initial;
@@ -89,7 +96,7 @@
 
     /* HEADER */
      h1 {
-      font-family:"Stencil STD";
+      font-family:"Stencil";
       font-weight: normal;
       font-stretch: narrow;
       font-size: clamp(1em, 8vw, 6em);
